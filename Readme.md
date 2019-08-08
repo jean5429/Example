@@ -1,6 +1,7 @@
 #Git Course
 
-Repositório teste do GIT
-Teste 2
+Repositório teste do GIT.i
 
-Teste 3
+Teste 2 [Link Portfolio](http://portfoliojean.atwebpages.com/)
+
+Teste 3 =)
